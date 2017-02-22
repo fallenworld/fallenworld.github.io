@@ -1,7 +1,8 @@
 ---
 layout: post
-categories: java
-tags: java
+title: java基础学习笔记
+categories: Java
+tags: Java
 ---
 
 * content

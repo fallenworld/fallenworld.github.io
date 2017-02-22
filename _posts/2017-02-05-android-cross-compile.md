@@ -1,7 +1,8 @@
 ---
 layout: post
+title: Linux下搭建Android交叉编译环境
 categories: Android
-tags: c/c++ Android Linux
+tags: C/C++ Android Linux
 ---
 
 * content
@@ -65,7 +66,7 @@ make install
 ```bash
 #!/bin/bash
 
-ANDROID_BUILD=~/android-build
+ANDROID_BUILD=上一步中你生成的Android交叉编译工具的路径
 PATH=$ANDROID_BUILD/bin:$PATH
 SYSROOT=$ANDROID_BUILD/sysroot
 HOST=arm-linux-androideabi

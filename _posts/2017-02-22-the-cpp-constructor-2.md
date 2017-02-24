@@ -1,6 +1,6 @@
 ---
 layout: post
-title: C++中的构造函数(二):构造函数代码扩张
+title: C++中的构造函数(二)：构造函数代码扩张
 categories: C++底层解析
 tags: C/C++
 ---
